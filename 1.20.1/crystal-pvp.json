@@ -1,0 +1,33 @@
+{
+  "name": "crystal pvp",
+  "description": "Mody szczególnie dobrane z myślą o graczach crystal pvp",
+  "version": "1.0.0",
+  "mcVersion": "1.20.1",
+  "loader": "fabric",
+  "author": "polonista",
+  "modIds": [
+    "Y8uFrUil",
+    "EsAfCjCV",
+    "o4y0N2hu",
+    "T9R7YTnA",
+    "QdG47OkI",
+    "aC3cM3Vq",
+    "zlDPoUHU",
+    "Eps2maQC",
+    "GldBYVHq",
+    "hm5OiDpS",
+    "codAaoxh",
+    "QrKEZXN9",
+    "GfoMZ9Ly",
+    "r6VxNyu0",
+    "ozpC8eDC",
+    "5J1t3PV8",
+    "jIFinxsR",
+    "4adMMXYm",
+    "8qkXwOnk",
+    "Wb5oqrBJ",
+    "CcxcmoLQ",
+    "1eAoo2KR",
+    "eTy17BBS"
+  ]
+}
