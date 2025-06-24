@@ -5,23 +5,6 @@
   "mcVersion": "1.20.1",
   "loader": "fabric",
   "author": "tomel999",
-  "mods": [
-    "sodium",
-    "lithium",
-    "phosphor",
-    "iris",
-    "modmenu",
-    "fabric-api",
-    "rei",
-    "jei",
-    "waila",
-    "journeymap",
-    "optifabric",
-    "mouse-tweaks",
-    "inventory-tweaks",
-    "appleskin",
-    "just-enough-items"
-  ],
   "modIds": [
     "AANobbMI",
     "gvQqBUqZ",
