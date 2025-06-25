@@ -1,0 +1,18 @@
+{
+  "name": "mody krzysimira",
+  "description": "Wyrzucone zostało kilka modów ponieważ powodują problemy w grze",
+  "version": "1.0.0",
+  "mcVersion": "1.20.1",
+  "loader": "fabric",
+  "author": "tomel999",
+  "modIds": [
+    "kzwxhsjp",
+    "zLAdIOH7",
+    "6jis0UTI",
+    "tJzrFuyy",
+    "pSfNeCCY",
+    "dbu8vyp0",
+    "qfOSDn7T",
+    "HobpdbGn"
+  ]
+}
