@@ -1,0 +1,25 @@
+{
+  "name": "Diamond Sword PvP",
+  "description": "Profil modow oparty na stylu gry Diamond 1.9 - komendy zmiany ustawien modyfikacji /motionblur 1-100 /hitcolor reload po zmianie intensywnosci koloru w menu modow.",
+  "version": "1.0.0",
+  "mcVersion": "1.20.1",
+  "loader": "fabric",
+  "author": "Meloniasty",
+  "modIds": [
+    "dbu8vyp0",
+    "fWundlde",
+    "dpkYdLu5",
+    "fRbqPLg4",
+    "o1tyE5vJ",
+    "KPVN4aiJ",
+    "w2SFICvx",
+    "MS1ZMyR7",
+    "CcxcmoLQ",
+    "VXFg68YU",
+    "Wb5oqrBJ",
+    "ftdbN0KK",
+    "ysaoagsq",
+    "89Wsn8GD",
+    "8zYE8DiW"
+  ]
+}
