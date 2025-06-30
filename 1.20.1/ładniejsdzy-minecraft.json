@@ -1,0 +1,26 @@
+{
+  "name": "Ładniejsdzy minecraft",
+  "description": "Ta paczka modów robi że minecraft jest ładniejszy",
+  "version": "1.0.0",
+  "mcVersion": "1.20.1",
+  "loader": "fabric",
+  "author": "Enigma",
+  "modIds": [
+    "SgJ1iW80",
+    "kYuIpRLv",
+    "zV5r3pPn",
+    "QdG47OkI",
+    "qyVF9oeo",
+    "rI0hvYcd",
+    "fM515JnW",
+    "PxQSWIcD",
+    "T8MMXTpr",
+    "DnNYdJsx",
+    "5srFLIaK",
+    "WfqS5LUm",
+    "jfvCMH0K",
+    "fWundlde",
+    "fRbqPLg4",
+    "OsZiaDHq"
+  ]
+}
