@@ -1,0 +1,29 @@
+{
+  "name": "PvP",
+  "description": "Mods fo PvP",
+  "version": "1.19.2",
+  "mcVersion": "1.19.2",
+  "loader": "fabric",
+  "author": "_Axami",
+  "modIds": [
+    "EsAfCjCV",
+    "lbOOPeKq",
+    "e0M1UDsY",
+    "GtqG8z1h",
+    "mB8GNQWO",
+    "blWBX5n1",
+    "B3HO5V57",
+    "uDMPYwAN",
+    "sRkxSKOU",
+    "GcWjdA9I",
+    "aC3cM3Vq",
+    "wgc8Q0IK",
+    "BFiJtNgD",
+    "dbu8vyp0",
+    "J267enD3",
+    "Y8uFrUil",
+    "kYuIpRLv",
+    "1eAoo2KR",
+    "dFeB5HEk"
+  ]
+}
