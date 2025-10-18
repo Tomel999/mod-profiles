@@ -1,0 +1,24 @@
+{
+  "name": "ryzerek ogólny/pvp",
+  "description": "mody do pvp itp",
+  "version": "1.0.0",
+  "mcVersion": "1.20.1",
+  "loader": "fabric",
+  "author": "ryzerek",
+  "modIds": [
+    "Jw3Wx1KR",
+    "EsAfCjCV",
+    "p2rxzX0q",
+    "WdpCzbHl",
+    "nbkDyHgy",
+    "tJzrFuyy",
+    "ozpC8eDC",
+    "QdG47OkI",
+    "aC3cM3Vq",
+    "dbu8vyp0",
+    "tJflAtvJ",
+    "ydZic5r4",
+    "ysaoagsq",
+    "CcxcmoLQ"
+  ]
+}
