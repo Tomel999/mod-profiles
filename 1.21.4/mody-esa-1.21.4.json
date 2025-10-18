@@ -1,0 +1,16 @@
+{
+  "name": "mody esa 1.21.4",
+  "description": "nowa wersja modów esa",
+  "version": "1.0.0",
+  "mcVersion": "1.21.4",
+  "loader": "fabric",
+  "author": "",
+  "modIds": [
+    "lvqPItJV",
+    "89Wsn8GD",
+    "tJzrFuyy",
+    "zLAdIOH7",
+    "geGZinIB",
+    "Kp2uclYl"
+  ]
+}
